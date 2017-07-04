@@ -1790,7 +1790,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #8eda54;
+  background: #f45d1a;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2966,7 +2966,7 @@ img:hover {
 }
 body {
   background: url("/images/background.jpg");
-  background-attachment: fixed;
+  background-size: cover;
 }
 .post {
   margin-top: 60px;
