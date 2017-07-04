@@ -959,7 +959,7 @@ pre .javascript .function {
   bottom: 30px;
 }
 .header {
-  background-color: #75a1c3;
+  background: transparent;
 }
 .header-inner {
   position: relative;
@@ -1790,7 +1790,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #49631a;
+  background: #faa7d9;
 }
 .links-of-blogroll {
   font-size: 13px;
