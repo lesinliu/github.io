@@ -10,5 +10,5 @@ Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
 
-Sitemap: http://www.websquare/sitemap.xml
-Sitemap: http://www.websquare/baidusitemap.xml
+Sitemap: http://www.websquare.cn/sitemap.xml
+Sitemap: http://www.websquare.cn/baidusitemap.xml
